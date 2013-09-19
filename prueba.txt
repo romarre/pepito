@@ -1,8 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 prueasd
 =======
+=======
+>>>>>>> c3ec289153129c2b65f801dd8cb8ade39b0a4cd0
 Hola
 
 AD
 
+<<<<<<< HEAD
+>>>>>>> c3ec289153129c2b65f801dd8cb8ade39b0a4cd0
+=======
 >>>>>>> c3ec289153129c2b65f801dd8cb8ade39b0a4cd0
