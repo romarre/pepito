@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-slfjsdfsd
-=======
 Hola
->>>>>>> 7e3df4984de2564f6c80400cc9c75aae40202be1
+
